@@ -1,10 +1,9 @@
-# Hello!🌱
 
 ## About me:
 
 To be added later
 
-### My current projects
+### My current projects 🌱
 
 - Identification project
 - Development of an **R package** with testate amoebae datasets and functional traits
