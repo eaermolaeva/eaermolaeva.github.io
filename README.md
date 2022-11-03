@@ -1,4 +1,3 @@
-
 ## About me:
 
 To be added later
@@ -10,13 +9,11 @@ To be added later
 - Transferability of regional trait-based transfer functions
 
 ```markdown
-How to install _amoebatech_ package:
+How to install my package:
 
 `some code here`
 
 ```
-
-Follow me on [ResearchGate](https://www.researchgate.net/profile/Elizaveta-Ermolaeva-2).
 
 ### Teaching
 
@@ -29,3 +26,5 @@ My teaching at UNiNE
 
 - MSc
 - Bsc
+
+Follow me on [ResearchGate](https://www.researchgate.net/profile/Elizaveta-Ermolaeva-2).
