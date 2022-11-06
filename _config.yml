@@ -1,9 +1,10 @@
-#theme: jekyll-theme-architect
-#title: Elizaveta A. Ermolaeva
-#description:  Keep an eye on my projects updates!
+theme: jekyll-theme-minimal
+title: Elizaveta A. Ermolaeva
+description:  PhD student
+logo: https://media-exp1.licdn.com/dms/image/C4D03AQF3ixcPAsdQ6A/profile-displayphoto-shrink_800_800/0/1645102842272?e=2147483647&v=beta&t=u3t37eSl-iKnFUqvoi7tH22BNmhportRoDYTCg2KBfs
 
-remote_theme: pages-themes/tactile@v0.2.0
-plugins:
+#remote_theme: pages-themes/tactile@v0.2.0
+#plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [The title of your site]
-description: [A short description of your site's purpose]
+#title: [The title of your site]
+#description: [A short description of your site's purpose]
