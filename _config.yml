@@ -1,3 +1,9 @@
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
+#title: Elizaveta A. Ermolaeva
+#description:  Keep an eye on my projects updates!
+
+remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Elizaveta A. Ermolaeva
-description:  Keep an eye on my projects updates!
+description: Keep an eye on my projects updates!
