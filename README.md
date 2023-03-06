@@ -2,29 +2,9 @@
 
 To be added later
 
-### My current projects 🌱
+### My ongoing projects 🌱
 
-- Identification project
-- Development of an **R package** with testate amoebae datasets and functional traits
-- Transferability of regional trait-based transfer functions
+- Identification Experiment Project
+- Pan-European Trait-based transfer function
 
-```markdown
-How to install my package:
-
-`some code here`
-
-```
-
-### Teaching
-
-My teaching at UNiNE
-
-1. Palaeoecology
-2. APP
-
-### Brief CV
-
-- MSc
-- Bsc
-
-Follow me on [ResearchGate](https://www.researchgate.net/profile/Elizaveta-Ermolaeva-2).
+Follow me on [ResearchGate](https://www.researchgate.net/profile/Elizaveta-Ermolaeva-2) and [LinkedIn](https://www.linkedin.com/in/elizaveta-ermolaeva-8423261a5/)
