@@ -2,7 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
-#forkme_banner{ display: none !important; }
+header {
+
+display: none;
+
+}
 
 footer {
   display: none !important;
