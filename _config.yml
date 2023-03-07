@@ -1,14 +1,12 @@
-#theme: jekyll-theme-minimal
-#title: Elizaveta A. Ermolaeva
-#description:  PhD student | Teaching assistant
-#Laboratory of Soil Biodiversity
-#University of Neuchâtel, Switzerland
-#logo: https://media-exp1.licdn.com/dms/image/C4D03AQF3ixcPAsdQ6A/profile-displayphoto-shrink_800_800/0/1645102842272?e=2147483647&v=beta&t=u3t37eSl-iKnFUqvoi7tH22BNmhportRoDYTCg2KBfs
+theme: jekyll-theme-minimal
+title: Elizaveta A. Ermolaeva
+description:  PhD student | Teaching assistant \n\ Laboratory of Soil Biodiversity \n\ University of Neuchâtel, Switzerland
+logo: https://media-exp1.licdn.com/dms/image/C4D03AQF3ixcPAsdQ6A/profile-displayphoto-shrink_800_800/0/1645102842272?e=2147483647&v=beta&t=u3t37eSl-iKnFUqvoi7tH22BNmhportRoDYTCg2KBfs
 
-remote_theme: pages-themes/tactile@v0.2.0
+#remote_theme: pages-themes/tactile@v0.2.0
 #plugins:
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Elizaveta A. Ermolaeva
-description: PhD student | Teaching assistant
-Laboratory of Soil Biodiversity
-University of Neuchâtel, Switzerland
+#title: Elizaveta A. Ermolaeva
+#description: PhD student | Teaching assistant
+#Laboratory of Soil Biodiversity
+#University of Neuchâtel, Switzerland
