@@ -7,6 +7,6 @@ My research subject is a variety of testate amoeba communities, with focus on th
 - Variation of functional traits of testate amoebae along various ecological gradients
 - Functional trait approach as an alternative to traditional taxonomy-based methods (for palaeoreconstructions, bioindication, etc.)
 - Biases (observer bias, confirmation bias, etc.) and uncertainty in natural sciences 
-- Techniques for open science and reproducibility
+- Tools and techniques for open science and reproducibility
 
 This page is still under development, but you can follow me on [ResearchGate](https://www.researchgate.net/profile/Elizaveta-Ermolaeva-2) and [LinkedIn](https://www.linkedin.com/in/elizaveta-ermolaeva-8423261a5/)
