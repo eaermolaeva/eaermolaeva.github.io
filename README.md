@@ -9,4 +9,4 @@ The subject of my research is a variety of testate amoebae communities, with foc
 - Biases (observer bias, confirmation bias, etc.) and uncertainty in natural sciences 
 - Tools and techniques for open science and reproducibility
 
-This page is still under development, but you can follow me on [ResearchGate](https://www.researchgate.net/profile/Elizaveta-Ermolaeva-2) and [LinkedIn](https://www.linkedin.com/in/elizaveta-ermolaeva-8423261a5/), or write me an email :)
+This page is still under development, but you can follow me on [ResearchGate](https://www.researchgate.net/profile/Elizaveta-Ermolaeva-2) and [LinkedIn](https://www.linkedin.com/in/elizaveta-ermolaeva-8423261a5/), or write me an email :) 
