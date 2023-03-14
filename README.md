@@ -4,7 +4,7 @@ My research subject is a variety of testate amoeba communities, with focus on th
 
 ### 🌱 My ongoing projects are related to: 
 
-- Variation of functional traits of testate amoebae along various ecological gradients
+- Variation of functional traits of testate amoebae along various ecological gradients and in relation to ecosystem functioning
 - Functional trait approach as an alternative to traditional taxonomy-based methods (for palaeoreconstructions, bioindication, etc.)
 - Biases (observer bias, confirmation bias, etc.) and uncertainty in natural sciences 
 - Tools and techniques for open science and reproducibility
