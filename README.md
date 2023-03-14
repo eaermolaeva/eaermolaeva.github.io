@@ -7,6 +7,6 @@ My main research subject is the development of a functional traits approach to s
 - Biases (observer bias, confirmation bias, etc.) and uncertainty in natural sciences.
 - Variation of functional traits of testate amoebae along the main ecological gradients in peatlands and in relation to ecosystem functioning.
 - Functional trait approach as an alternative to traditional taxonomy-based methods (for palaeo-environmental reconstructions, bioindication, etc.).
-- Exploring and developing tools and techniques for open science and reproducibility , which can be used in fundamental and applied protistology.
+- Exploring and developing tools and techniques for open science and reproducibility, which can be used in fundamental and applied protistology.
 
 This page is still under development, but you can follow me on [ResearchGate](https://www.researchgate.net/profile/Elizaveta-Ermolaeva-2) and [LinkedIn](https://www.linkedin.com/in/elizaveta-ermolaeva-8423261a5/) or write me an email :)
